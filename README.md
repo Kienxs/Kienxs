@@ -24,7 +24,7 @@
 
   <br/>
 
-  <a href="https://TRANG-WEB-CUA-BAN.com" target="_blank">
+  <a href="https://https://game-online-kien.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" height="35" />
   </a>
   &nbsp;
