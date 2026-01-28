@@ -24,8 +24,8 @@
 
   <br/>
 
-  <a href="https://https://game-online-kien.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" height="35" />
+  <a href="https://game-online-kien.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Titan_Battle?style=for-the-badge&logo=google-chrome&logoColor=black" height="35" />
   </a>
   &nbsp;
   <a href="mailto:kienxs292005@gmail.com">
