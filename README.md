@@ -10,12 +10,12 @@
 
   <br/>
 
-  <div align="left" style="width: 80%; margin: auto;">
+  <div align="left">
     <blockquote>
       <h3>🚀 About Me</h3>
       <ul>
         <li>🎓 <b>Education:</b> Student at <b>Hanoi University of Industry (HaUI)</b></li>
-        <li>💻 <b>Focus:</b> Building scalable <b style="color: #ed8b00">Java Systems</b> & Immersive <b style="color: #239120">Games</b></li>
+        <li>💻 <b>Focus:</b> Building scalable 🟧 <b>Java Systems</b> & Immersive 🟩 <b>Games</b></li>
         <li>🌱 <b>Exploring:</b> Microservices, Docker & AI Application</li>
         <li>⚡ <b>Fun fact:</b> I can debug code in my sleep (sometimes!)</li>
       </ul>
