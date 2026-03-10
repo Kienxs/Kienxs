@@ -27,6 +27,10 @@
   <a href="https://game-online-kien.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Play_Titan_Battle-DC143C?style=for-the-badge&logo=google-play&logoColor=white" height="35" />
   </a>
+
+  <a href="https://your-weather-app-url.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Weather_Around_The_World-3B82F6?style=for-the-badge&logo=icloud&logoColor=white" height="35" />
+  </a>
   &nbsp;
   <a href="mailto:kienxs292005@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
