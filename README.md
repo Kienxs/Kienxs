@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Weather_Around_The_World-3B82F6?style=for-the-badge&logo=icloud&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="mailto:kienxs292005@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kienxs292005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 
