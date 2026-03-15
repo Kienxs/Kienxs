@@ -24,6 +24,10 @@
 
   <br/>
 
+  <a href="https://kienxs-ai-traffic-vn.hf.space/" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Traffic_Predictor-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" />
+  </a>
+  &nbsp;
   <a href="https://game-online-kien.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Play_Titan_Battle-DC143C?style=for-the-badge&logo=google-play&logoColor=white" height="35" />
   </a>
@@ -46,6 +50,13 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <br/><br/>
+
+  <b>AI & Data Science</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <br/><br/>
 
   <b>Game Development</b><br/>
