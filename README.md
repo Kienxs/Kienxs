@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/AI_Traffic_Predictor-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" />
   </a>
   &nbsp;
-  <a href="https://https://titan-battle.fly.dev/" target="_blank">
+  <a href="https://titan-battle.fly.dev" target="_blank">
     <img src="https://img.shields.io/badge/Play_Titan_Battle-DC143C?style=for-the-badge&logo=google-play&logoColor=white" height="35" />
   </a>
   &nbsp;
