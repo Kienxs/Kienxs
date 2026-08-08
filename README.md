@@ -32,6 +32,10 @@
     <img src="https://img.shields.io/badge/Play_Titan_Battle-DC143C?style=for-the-badge&logo=google-play&logoColor=white" height="35" />
   </a>
   &nbsp;
+  <a href="https://titan-battle.fly.dev" target="_blank">
+    <img src="https://play.google.com/store/apps/details?id=com.KXSStudio.Synerforge&logo=google-play&logoColor=white" height="35" />
+  </a>
+  &nbsp;
   <a href="https://kien-weather.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Weather_Around_The_World-3B82F6?style=for-the-badge&logo=icloud&logoColor=white" height="35" />
   </a>
